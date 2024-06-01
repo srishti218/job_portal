@@ -1,0 +1,33 @@
+.logo {
+  width: 120px;
+  height: 31px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px 24px 16px 0;
+  float: left;
+}
+
+.site-layout-content {
+  padding: 24px;
+  background: #fff;
+  min-height: 280px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.ant-typography {
+  text-align: center;
+}
+
+.portal-section {
+  background: #f0f2f5;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.portal-section .ant-typography {
+  text-align: center;
+}
